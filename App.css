@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+}
+.insta_img{
+ object-fit: contain;
+ height: 70px;
+ flex-direction: column;
+}
+.App{
+  background-color: #fafafa;
+
+}
+.app_header{
+  background-color: white;
+  padding: 10px;
+  border:  1px solid lightgray;
+  object-fit: contain;
+  display: flex;
+  justify-content: space-between;
+}
+.app_signup{
+  display: flex;
+  flex-direction: column;
+
+}
+

@@ -1,0 +1,33 @@
+.capti_cls{
+   
+    border-radius:7px; 
+    width: 40%;
+    padding: 10px;
+    margin: 5px;
+}
+
+
+.file_cls{
+ width: 20%;
+ background-color:white;
+ margin-top: 10px;
+}
+.but_C{
+   width: 30%;
+
+   
+}
+.imag_up{
+ display: flex;
+ flex-direction: column;
+ width: 60%;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ align-items: center;
+
+}
+.progress{
+
+}
